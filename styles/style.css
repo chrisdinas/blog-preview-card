@@ -36,7 +36,7 @@ body {
   box-shadow: 8px 8px var(--black-clr);
 }
 
-.image img {
+.image svg {
   margin: 20px 0;
   border-radius: 12px;
 }
@@ -65,10 +65,10 @@ body {
 
 .info .date {
   font-size: 14px;
-  margin-bottom: 20px;
 }
 
 .info h1 {
+  margin-top: 20px;
   margin-bottom: 15px;
   font-weight: 800;
 }
